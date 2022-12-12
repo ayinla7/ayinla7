@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayinla7
+- 👋 Hi, I’m AYINLA KWAMDEEN
 - 👀 I’m interested in learning and working Oppptunities(Gigs)
 - 🌱 I’m currently learning Full Stack Web development
 - 💞️ I’m looking to collaborate on Web development teams

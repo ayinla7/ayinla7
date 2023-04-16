@@ -3,7 +3,6 @@
 - 💞️ Let's collaborate on Web development to make the world a better place.
 - 🤔 Learning Web3.0 🔑
 - 📫 My twitter is [@thiskwam](https://www.twitter.com/thiskwam)
-- 📫 LinkedIn: [Kwamdeen](https://www.linkedin.com/in/ayinlakwamdeen/)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kwamdeen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayinlakwamdeen/)
 
 
@@ -16,4 +15,12 @@
 <img src="https://user-images.githubusercontent.com/31147728/212902550-fa8ae228-1141-4419-adfd-e28a11e5d66c.png" width="50" height="50">
 
 ![fcf7fd0c619bb87706533079240915f3](https://user-images.githubusercontent.com/31147728/212907480-f7223290-e3ee-4b25-8ecd-06ea27508e9b.gif)
+
+
+---
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Ayinla7
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayinla7&theme=dark&background=000000)](https://git.io/streak-stats)
+
 

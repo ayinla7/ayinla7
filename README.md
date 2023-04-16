@@ -4,7 +4,7 @@
 - 🤔 Learning Web3.0 🔑
 - 📫 My twitter is [@thiskwam](https://www.twitter.com/thiskwam)
 - 📫 LinkedIn: [Kwamdeen](https://www.linkedin.com/in/ayinlakwamdeen/)
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayinlakwamdeen/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kwamdeen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayinlakwamdeen/)
 
 
 ## Languages and tools

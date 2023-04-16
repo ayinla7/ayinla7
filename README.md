@@ -4,6 +4,8 @@
 - 🤔 Learning Web3.0 🔑
 - 📫 My twitter is [@thiskwam](https://www.twitter.com/thiskwam)
 - 📫 LinkedIn: [Kwamdeen](https://www.linkedin.com/in/ayinlakwamdeen/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayinlakwamdeen/)
+
 
 ## Languages and tools
 <img src="https://user-images.githubusercontent.com/31147728/212904419-3a4bdee7-2c9a-4fc7-8124-8af969927883.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/31147728/212904422-1eb7f8fc-3904-4a92-ae7f-fc545e7f5889.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/31147728/212902716-cd2952e6-e09b-46fd-8a3c-f60e09efa998.png" width="50" height="50">

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AYINLA KWAMDEEN
 - 🌱 I’m a Full-Stack Software Developer 🚀🚀
 - 💞️ Let's collaborate on Web development to make the world a better place.
-- 🤔 Learning Web3.0 🔑
 - 📫 My twitter is [@thiskwam](https://www.twitter.com/thiskwam)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kwamdeen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayinlakwamdeen/)
 
